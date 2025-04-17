@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	int a=15;
+	int a=17;
 	printf("a: %d\n",a);
 	
 	if(a %2 == 0)
